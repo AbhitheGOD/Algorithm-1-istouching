@@ -1,2 +1,2 @@
-# Algorithm-1-istouching
-I made my own algo for .isTouching function
+# p5.play-boilerplate
+Boiler plate for p5.play
